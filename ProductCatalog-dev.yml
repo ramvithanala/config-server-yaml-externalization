@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: ProductCatalog
+productcatalog:
+  product1: 
+    productname: soap
+    productprice: 10
+  product2: 
+    productname: soap
+    productprice: 10
+  product3: 
+    productname: soap
+    productprice: 10
